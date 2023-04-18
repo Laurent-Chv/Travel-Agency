@@ -250,7 +250,7 @@ label
     margin-right: 10px;
     color: #777;
 }
-input[type="text"]
+input[type="text"], input[type="email"]
 {
     padding: 10px;
     font-size: 20px;
